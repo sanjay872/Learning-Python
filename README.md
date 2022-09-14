@@ -1,5 +1,7 @@
 # Learning-Python
-learning python by watching tutorial and creating my own project
-1) Basics has all the sample code for basic of python;
-2) RPS(Rock paper scissors) Game by watching freecodecamp python basic tutorial;
-3) BlackJack Game by watching freecodecamp python basic tutorial;
+learning python by watching tutorial and creating my own projects
+## Basics folder 
+  All the sample code for basic of python;
+##  Projects folder
+  1) RPS(Rock paper scissors) Game by watching freecodecamp python basic tutorial.
+  2) BlackJack Game by watching freecodecamp python basic tutorial.
