@@ -4,17 +4,20 @@ learning python by watching tutorial and creating my own projects
 ## Basics folder 
   All the sample code for basic of python;
   Basic Concepts are,
-  - Variables 
-  - Conditions
-  - Chained Conditionals
-  - Operators
-  - Control Flow (If/Else)
-  - Loops and Iterables
-  - Basic Data Structures
-  - Functions
-  - Mutable vs Immutable
-  - Common Methods
-  - File IO 
+  - Variables and Data types &#9745
+  - Operators &#9745
+  - Conditions &#9745
+    - Chained Conditionals
+    - Control Flow (If/Else)
+  - Loops and Iterables &#9745
+  - List and Tuples &#9745
+    - Iterations
+    - Mutable vs Immutable
+    - String methods and operators
+  - Functions &#9745
+  - File IO &#9745
+  - Inbuild Modules &#9745
+  - Error Handling &#9745
 
 ## intermediate folder
   All the sample code for intermediate concepts of python;
