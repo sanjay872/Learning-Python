@@ -23,13 +23,14 @@ learning python by watching tutorial and creating my own projects
   All the sample code for intermediate concepts of python;
   Intermediate Concepts are,
   - Object Oriented Programming
+    - Inheritance
+    - polymorphism
   - Data Structures
   - Comprehensions 
   - Lambda Functions
   - Map, Filter
   - Collections
   - *args & **kwargs
-  - Inheritance
   - Dunder Methods
   - PIP
   - Environments
