@@ -24,7 +24,9 @@ learning python by watching tutorial and creating my own projects
   Intermediate Concepts are,
   - Object Oriented Programming
     - Inheritance
-    - polymorphism
+    - Overloading
+    - static and class methods
+    - public and private classes
   - Data Structures
   - Comprehensions 
   - Lambda Functions
