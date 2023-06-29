@@ -1,7 +1,7 @@
 """
 Static Methods are independent of the class
     - self or any other instance of the class can't be used in it.
-Class Methods are depend on the class
+Class Methods are depend on the class and object is not required to call them.
 """
 
 class Dog:

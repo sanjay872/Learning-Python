@@ -22,16 +22,22 @@ learning python by watching tutorial and creating my own projects
 ## intermediate folder
   All the sample code for intermediate concepts of python;
   Intermediate Concepts are,
-  - Object Oriented Programming
+  - Object Oriented Programming :heavy_check_mark:
     - Inheritance
     - Overloading
     - static and class methods
     - public and private classes
-  - Data Structures
-  - Comprehensions 
-  - Lambda Functions
-  - Map, Filter
+  - Important Functions and Techniques :heavy_check_mark:
+    - Map and Filters
+    - Comprehensions
+    - Lambda Functions
   - Collections
+    - Set
+    - Dict
+    - Counter
+    - NamedTuple
+    - Deque
+  - Data Structures 
   - *args & **kwargs
   - Dunder Methods
   - PIP
