@@ -31,13 +31,14 @@ learning python by watching tutorial and creating my own projects
     - Map and Filters
     - Comprehensions
     - Lambda Functions
-  - Collections
+  - Collections :heavy_check_mark:
     - Set
     - Dict
     - Counter
     - NamedTuple
     - Deque
-  - Data Structures 
+  - Data Structures
+  - Algorithms
   - *args & **kwargs
   - Dunder Methods
   - PIP
