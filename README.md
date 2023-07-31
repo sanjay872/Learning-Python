@@ -63,3 +63,6 @@ learning python by watching tutorial and creating my own projects
   1. RPS(Rock paper scissors) Game by watching freecodecamp python basic tutorial.
   2. BlackJack Game by watching freecodecamp python basic tutorial.
   3. TicTacToe Game , two players can play it for multiple rounds (Own Project).
+
+## Other Activities
+  1. Solving all the Easy Level Python question(98) in hackerrank. 
