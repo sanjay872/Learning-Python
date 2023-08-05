@@ -56,11 +56,13 @@ class LinkedList:
                 if curElement:
                     prevElement.next=curElement.next
                     curElement.next=None
+                    self.length-=1
                 else:
                     print("Element Not found")
             else:
                 self.head=curElement.next
                 curElement.next=None
+                self.length-=1
         else:
             print("No Elements in the list")
 
@@ -99,6 +101,7 @@ class LinkedList:
                 curElement=curElement.next
             if list2.head:
                 curElement.next=list2.head
+                self.length+=list2.size()
             else:
                 print("No in element in given list")    
         else:
@@ -148,12 +151,15 @@ linkedList.delete(4) # changed to 5 1 2
 linkedList.delete(2) # changed to 5 1
 #linkedList.delete(6) # Element not found
 
+print(linkedList.size()) # prints 2
+
 linkedList.display() # display 5 1
 
 linkedList2=LinkedList(Element(10))
 linkedList2.append(Element(20))
 
 linkedList.extend(linkedList2)
+print(linkedList.size()) # prints 4
 linkedList.display() # displays 5 1 10 20
 
 print(linkedList.get_position(5)) # returns 1
