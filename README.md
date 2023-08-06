@@ -38,7 +38,32 @@ learning python by watching tutorial and creating my own projects
     - NamedTuple
     - Deque
   - Data Structures
+    - List
+      - LinkedList
+      - DoubleLinkedList
+      - CircularLinkedList
+    - Stack
+      - Using List
+      - Using Linked List
+    - Queue
+      - Using List
+      - Using Linked List
+    - Map and Hashing
+    - Tree
+    - Graph
   - Algorithms
+    - Searching
+      - List, Stack, Queue
+        - Binary Search
+        - Linear Search
+      - Tree
+      - Graph
+    - Sorting
+      - Bubble Sort
+      - Insertion Sort
+      - Merge Sort
+      - Quick Sort
+      - Heap Sort
   - *args & **kwargs
   - Dunder Methods
   - PIP

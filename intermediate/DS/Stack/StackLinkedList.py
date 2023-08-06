@@ -4,7 +4,7 @@ class Element:
         self.value=value
         self.next=None
 
-class Stack:
+class StackList:
 
     def __init__(self,head=None):
         self.head=head
@@ -50,7 +50,7 @@ e2=Element(2)
 e3=Element(3)
 e4=Element(4)
 
-stack=Stack(e1) # in stack 1
+stack=StackList(e1) # in stack 1
 
 stack.push(e2) # in stack 2 1 
 stack.push(e3) # in stack 3 2 1
