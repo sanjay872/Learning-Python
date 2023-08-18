@@ -49,6 +49,8 @@ learning python by watching tutorial and creating my own projects
       - Using List
       - Using Linked List
     - Map and Hashing
+      - Map
+      - Hashing
     - Tree
     - Graph
   - Algorithms
@@ -63,7 +65,6 @@ learning python by watching tutorial and creating my own projects
       - Insertion Sort
       - Merge Sort
       - Quick Sort
-      - Heap Sort
   - *args & **kwargs
   - Dunder Methods
   - PIP
